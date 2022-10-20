@@ -1,5 +1,7 @@
 ## Spotify V2 built with Next.js
 
+Before you run this application, make sure to start the original Spotify application.
+
 ## Getting Started
 
 First, run the development server:
